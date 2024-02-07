@@ -36,3 +36,5 @@ Documentation outlining the analysis methodology, data sources, and any addition
 Conclusion:
 The IPL analysis project aims to provide valuable insights into the performance trends and dynamics of one of the most popular cricket leagues globally. By leveraging Excel's analytical capabilities, we aim to uncover patterns, identify top performers, and offer actionable insights for stakeholders interested in IPL analytics
 ![Dashboard](https://github.com/pankit01999/Indian-Premier-league-Analysis-Using-Excel/assets/143706134/7369f2e7-90a6-4f96-8c84-2f628787f3ad)
+
+https://github.com/pankit01999/Indian-Premier-league-Analysis-Using-Excel/assets/143706134/803c5724-95b9-4f1c-96ab-34748155e1e8
